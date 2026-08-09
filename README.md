@@ -173,14 +173,6 @@ US-Disaster-Declarations-PowerBI-Dashboard
 │   ├── Technical_Documentation.pdf
 │   └── Presentation.pptx
 │
-├── Screenshots
-│   ├── Executive_Overview.png
-│   ├── Geographic_Analysis.png
-│   ├── Temporal_Trends.png
-│   ├── Incident_Program_Insights.png
-│   ├── Scenario_Analysis.png
-│   └── Data_Model.png
-│
 └── README.md
 ```
 
