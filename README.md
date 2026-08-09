@@ -155,26 +155,6 @@ Major DAX measures include:
 - Projected IA Declarations
 - Frequency Adjustment Value
 
----
-
-## 📂 Project Structure
-
-```
-US-Disaster-Declarations-PowerBI-Dashboard
-│
-├── Dashboard
-│   └── US_Disaster_Declarations_Dashboard.pbix
-│
-├── Dataset
-│   └── us_disaster_declarations.csv
-│
-├── Documentation
-│   ├── User_Guide.pdf
-│   ├── Technical_Documentation.pdf
-│   └── Presentation.pptx
-│
-└── README.md
-```
 
 ---
 
